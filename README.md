@@ -1,2 +1,1 @@
-# reddit-keyword-research
-A personal, non-commercial application for searching and analyzing publicly available Reddit posts and comments by keywords.
+This is a personal, non-commercial research application for analyzing publicly available Reddit posts and comments by keywords. The application is intended to identify recurring topics, questions, pain points, and trends in public Reddit discussions. It will use Reddit's API in a read-only manner and will not post, comment, vote, message users, or perform moderation actions.
